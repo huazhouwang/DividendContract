@@ -1,5 +1,5 @@
 ## Get Start
-You can refer to [this site](https://learnblockchain.cn/2018/01/12/first-dapp/)
+You can refer to [this site](http://truffleframework.com/tutorials/)
 
 1. install [NodeJs](https://nodejs.org/en/download/)
 2. install Truffle which is the most popular development framework for Ethereum: `npm install -g truffle`
